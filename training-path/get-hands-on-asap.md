@@ -4,6 +4,18 @@ Check your system requirement, set up you gear, install the game and get flying.
 
 ## Check your Rig
 
+If you are reading this already, then most probably you have [the minimum PC to get started](https://www.digitalcombatsimulator.com/en/downloads/world/beta/). Well I did not, so I built a rig from the scratch. You can find a lot of content about building a PC, specifically for DCS, whether you want to go track ID path or VR. However, At this moment, all I have to say is don't go cheap (as much as possible).&#x20;
+
+I understand, the prices are rocket high, but as we already know, [this hobby need investing time and money](../introduction.md#why-should-you-read-me). I also did not pay for 2000 euro only for the graphic card (as a reference, [ASUS ROG STRIX GEFORCE RTX 4090 OC EDITION](https://www.alternate.nl/html/product/1870140?utm\_source=GoogleShopping\&utm\_medium=cpc\&utm\_campaign=GoogleShopping\_Grafischekaart\&utm\_term=JIXV0T01\&gclid=CjwKCAjw36GjBhAkEiwAKwIWyd-a8vyUQ5kouTB8gKEz7Y5S7wH1VOevo7SsIZpZXfMkIgrgqO9NXBoC4fEQAvD\_BwE) is around 2000 at the time of writing this), but it should be something to give an enjoyable experience, otherwise, like any other hobby, you will quit at some point.
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
 ## Setup your Gear!
 
 <details>
