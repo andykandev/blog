@@ -1,12 +1,16 @@
-# Get Hands-on ASAP!
+---
+description: What do you need for a fun experience
+---
 
-Check your system requirement, set up you gear, install the game and get flying.
+# Fly: Get Hands-on ASAP!
+
+Check your system spec, set up your gear, install the game and get flying.
 
 ## Check your Rig
 
-If you are reading this already, then most probably you have [the minimum PC to get started](https://www.digitalcombatsimulator.com/en/downloads/world/beta/). Well I did not, therefore I built a rig from the scratch. There are lots of content on building/upgrading your PC, specifically for DCS, whether you want to go down the track ID path or VR. However, At this moment, all I have to say is don't go cheap (as much as you can).
+If you are reading this already, then most probably you have [the minimum PC to get started](https://www.digitalcombatsimulator.com/en/downloads/world/beta/). Well I did not, therefore I built a rig from the scratch. There are lots of content on building/upgrading your PC, specifically for DCS, whether you want to go down the track ID path or VR. However, At this moment, all I have to say is don't go cheap (as much as your budget allows).
 
-I understand, the prices are rocket high, but as we already know, [this hobby needs investing time and money](../introduction.md#why-should-you-read-me). I also did not pay 2000 euros just for a graphic's card (as a reference, [ASUS ROG STRIX GEFORCE RTX 4090 OC EDITION](https://www.alternate.nl/html/product/1870140?utm\_source=GoogleShopping\&utm\_medium=cpc\&utm\_campaign=GoogleShopping\_Grafischekaart\&utm\_term=JIXV0T01\&gclid=CjwKCAjw36GjBhAkEiwAKwIWyd-a8vyUQ5kouTB8gKEz7Y5S7wH1VOevo7SsIZpZXfMkIgrgqO9NXBoC4fEQAvD\_BwE) is around 2000 at the time of writing this), but think of it as your infrastructure, the stronger it is, the easier/enjoyable to grow on it later. If you have less than 45 FPS it will be more likely you quit without having any fun.
+I understand, the prices are rocket high, but as we already know, [this hobby needs investing time and money](../introduction.md#why-should-you-read-me). I also did not pay 2000 euros just for a graphic's card (as a reference, [ASUS ROG STRIX GEFORCE RTX 4090 OC EDITION](https://www.alternate.nl/html/product/1870140?utm\_source=GoogleShopping\&utm\_medium=cpc\&utm\_campaign=GoogleShopping\_Grafischekaart\&utm\_term=JIXV0T01\&gclid=CjwKCAjw36GjBhAkEiwAKwIWyd-a8vyUQ5kouTB8gKEz7Y5S7wH1VOevo7SsIZpZXfMkIgrgqO9NXBoC4fEQAvD\_BwE) is around 2000 at the time of this writing), but think of it as your infrastructure, the stronger it is, the easier/enjoyable to grow on it later. If you have less than 45 FPS it will be more likely you quit without having any fun.
 
 <details>
 
