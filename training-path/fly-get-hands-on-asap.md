@@ -26,7 +26,7 @@ I understand, the prices are rocket high, but as we already know, [this hobby ne
 
 ## Setup your Gear!
 
-I wish I could tell you don't need anything else besides a PC and an internet connection. There are those who say although preferable are important, they are not a must. I completely disagree, you cannot get better at it and enjoy without the right tools (at least the minimum set).
+I wish I could say that you don't need anything else besides a PC and an internet connection. There are those who believe referrals are important, but not a must. I completely disagree, you cannot get better at flying and enjoy without the right tools (at least the minimum set).
 
 <details>
 
