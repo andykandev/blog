@@ -5,5 +5,3 @@ Hello and welcome! As a flight enthusiast (among other things), I've taken up th
 This guide covers almost everything I have learned, and constantly evolves as I gain more experience. It is organized from the fundamentals to advanced topics! Feel free to follow it in the same order from start to finish, as it shows how I am doing it, or you can dive straight into the specific topics that pique your interest.
 
 So, secure your harness, and get ready to soar through this incredible learning adventure together! Hope to fly with you someday.
-
-\
