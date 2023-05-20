@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Introduction](README.md)
+
+* [Foreword](README.md)
+* [Introduction](introduction.md)

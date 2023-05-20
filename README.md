@@ -1,42 +1,30 @@
-# Introduction
+# Foreword
 
-Hello and welcome! As a flight enthusiast (among other things), I've taken up the delightful task of creating this living booklet as a hobby project. Its purpose is to not only document my own learning progress but also to provide you, my fellow enthusiast, with a delightful learning experience (at least smoother than mine).
-
-This guide covers almost everything I have learned, and constantly evolves as I gain more experience. It is organized from the fundamentals to advanced topics! Feel free to follow it in the same order from start to finish, as it shows how I am doing it, or you can dive straight into the specific topics that pique your interest.
+Hello and welcome! As a flight enthusiast (among other things), I've taken up the delightful task of creating this living README as a hobby project. Its purpose is to document my own learning progress, and hopefully to provide you, my fellow enthusiast, with a delightful learning experience (even smoother than mine).
 
 So, secure your harness, and get ready to soar through this incredible learning adventure together! Hope to fly with you someday.
 
 <details>
 
-<summary>Why should you read me?</summary>
 
-Hopefully by now, you know, flying, real or virtual, is not a cheap hobby. Most importantly it needs a considerable amount of time to get started, get good at it and stay good at it. It also requires investment in a good rig, monitor/VR, peripherals, and software. Therefore, it is a good idea to approach it efficiently.\
-My primary goal is to lay down a well structured and progressive path to enjoy flying in [Digital Combat Simulator](https://www.digitalcombatsimulator.com/en/) (DCS). Secondly, get better at it. And last but not least, learn about aviation! You never know, someday you have to retire from the virtual air force then you might want to get a job, being a virtual airline pilot.
+<summary>How did it all begin?</summary>
 
-</details>
+If you're interested to know about my story of aviation, read on, otherwise skip this section.
 
-<details>
+## First Exposure
 
-<summary>Who should read me?</summary>
+My first exposure was at the age of 8, before having my own PC. I played [F-117A Nighthawk Stealth Fighter 2.0](https://en.wikipedia.org/wiki/F-117A\_Nighthawk\_Stealth\_Fighter\_2.0) on DOS on my friend's i486. To be honest I don’t remember much of it unless I watch the [gameplay](https://www.youtube.com/watch?v=\_ij2WAaLPEM).
 
-At this moment only the very beginners!
+## A Failed Attempt
 
-</details>
+At age 12, I upgraded to my second PC (from an i386 to a Pentium) with an optical drive (the games were on CDs back then). The first 2 games I bought were [Neverhood](https://en.wikipedia.org/wiki/The\_Neverhood) (one of the best games ever created!) and [Jane's F-15](https://en.wikipedia.org/wiki/Jane's\_F-15). After a failed attempt to experiment my first flight with F-15 (That game was only playable with a joystick, and I did not have one), and almost 2 years later, I finally started with [Jane's USAF](https://en.wikipedia.org/wiki/Jane's\_USAF) (which had keyboard support). It still is one of the best simulations created (think DCS but before 2000, here is a [gameplay](https://www.youtube.com/watch?v=MaunZz6GfYE)).
 
-<details>
+## My First Stick
 
-<summary>How to read me?</summary>
+I got into [MSFS 2004](https://en.wikipedia.org/wiki/Microsoft\_Flight\_Simulator\_2004:\_A\_Century\_of\_Flight), after owning my first stick, a [Logitech Extreme 3D Pro](https://en.wikipedia.org/wiki/List\_of\_Logitech\_products).
 
-I will tell you soon!
+## And Now
 
-</details>
-
-<details>
-
-<summary>Would you like to help?</summary>
-
-Well, first you could tell me what you think about this guide. If you are reading on [gitbook.com](https://andybaba.gitbook.io/my-guide-to-flight-sim-dcs/), then you can rank every page separately. If you would like to help even more, leave a contact there too and I will get back to you as soon as I can to discuss it together.
+[DCS Open Beta 2.8](https://www.digitalcombatsimulator.com/en/downloads/world/beta/)
 
 </details>
-
-##
