@@ -31,12 +31,16 @@ Will tell you soon!
 
 <summary>Would you like to help?</summary>
 
-Well, first you could tell me what you think about this guide. If you are reading on [gitbook.com](https://andybaba.gitbook.io/my-guide-to-flight-sim-dcs/), then you can rank every page separately. If you would like to help even more, fill-in [this form](http://localhost:5000/o/h4q1IgXjrHJ5jJVtyD3E/s/s2UzUqfq63SH5jchI40L/) and leave a contact there too and I will get back to you as soon as I can to discuss it together.
-
-
+Well, first you could tell me what you think about this guide. If you are reading on [gitbook.com](https://andybaba.gitbook.io/my-guide-to-flight-sim-dcs/), then you can rank every page separately.
 
 </details>
 
 ## Support
+
+If you would like to help even more, fill-in [this form](http://localhost:5000/o/h4q1IgXjrHJ5jJVtyD3E/s/s2UzUqfq63SH5jchI40L/) and leave a contact there too, and I will get back to you as soon as I can to discuss it together.
+
+{% hint style="info" %}
+You may directly fork and create pull requests on [Github public repo](https://github.com/andykandev/blog).
+{% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/18_e2QFiuGh-XuJGT-FSPTEQQNH1HYn2SQCsdLAI_2j4/edit" %}
