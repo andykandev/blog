@@ -6,6 +6,7 @@ So, secure your harness, and get ready to soar through this incredible learning 
 
 <details>
 
+
 <summary>How did it all begin?</summary>
 
 If you're interested to know about my story of aviation, read on, otherwise skip this section.
