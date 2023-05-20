@@ -1,6 +1,6 @@
 # Introduction
 
-Hello and welcome! As a flight enthusiast (among other things), I've taken up the delightful task of creating this living booklet as a hobby project. Its purpose is to not only document my own learning progress but also to provide you, my fellow enthusiast, with a delightful learning experience (at least smoother than mine).
+Hello and welcome! As a flight enthusiast (among other things), I've taken up the delightful task of creating this living README as a hobby project. Its purpose is to document my own learning progress, and hopefully to provide you, my fellow enthusiast, with a delightful learning experience (even smoother than mine).
 
 This guide covers almost everything I have learned, and constantly evolves as I gain more experience. It is organized from the fundamentals to advanced topics! Feel free to follow it in the same order from start to finish, as it shows how I am doing it, or you can dive straight into the specific topics that pique your interest.
 
@@ -27,7 +27,7 @@ At this moment only the very beginners!
 
 <summary>How to read me?</summary>
 
-I will tell you soon!
+Will tell you soon!
 
 </details>
 
@@ -35,8 +35,12 @@ I will tell you soon!
 
 <summary>Would you like to help?</summary>
 
-Well, first you could tell me what you think about this guide. If you are reading on [gitbook.com](https://andybaba.gitbook.io/my-guide-to-flight-sim-dcs/), then you can rank every page separately. If you would like to help even more, leave a contact there too and I will get back to you as soon as I can to discuss it together.
+Well, first you could tell me what you think about this guide. If you are reading on [gitbook.com](https://andybaba.gitbook.io/my-guide-to-flight-sim-dcs/), then you can rank every page separately. If you would like to help even more, fill-in [this form](http://localhost:5000/o/h4q1IgXjrHJ5jJVtyD3E/s/s2UzUqfq63SH5jchI40L/) and leave a contact there too and I will get back to you as soon as I can to discuss it together.
+
+
 
 </details>
 
-##
+## Support
+
+{% embed url="https://docs.google.com/forms/d/18_e2QFiuGh-XuJGT-FSPTEQQNH1HYn2SQCsdLAI_2j4/edit" %}
