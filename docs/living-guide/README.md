@@ -24,6 +24,6 @@ I got into [MSFS 2004](https://en.wikipedia.org/wiki/Microsoft\_Flight\_Simulato
 
 #### And Now
 
-[DCS Open Beta 2.8](https://www.digitalcombatsimulator.com/en/downloads/world/beta/)
+I am in [DCS Open Beta 2.8](https://www.digitalcombatsimulator.com/en/downloads/world/beta/) since April 2023.
 
 </details>
