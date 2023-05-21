@@ -1,4 +1,3 @@
-<<<<<<<< HEAD:docs/living-guide/README.md
 # Foreword
 
 Hello and welcome! As a flight enthusiast (among other things), I've taken up the delightful task of creating this living README as a hobby project. Its purpose is to document my own learning progress, and hopefully to provide you, my fellow enthusiast, with a delightful learning experience (even smoother than mine).
@@ -28,6 +27,3 @@ I got into [MSFS 2004](https://en.wikipedia.org/wiki/Microsoft\_Flight\_Simulato
 I am in [DCS Open Beta 2.8](https://www.digitalcombatsimulator.com/en/downloads/world/beta/) since April 2023.
 
 </details>
-========
-This is what I have to document about my hobby, being a virtual pilot.
->>>>>>>> gitbook:README.md
