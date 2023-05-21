@@ -1,1 +1,1 @@
-This is I have to document on my virtual flying as a hobby.
+This is what I have to document about my hobby, being a virtual pilot.
