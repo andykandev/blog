@@ -28,6 +28,8 @@ I understand, the prices are rocket high, but as we already know, [this hobby ne
 
 I wish I could say that you don't need anything else besides a PC and an internet connection. There are those who believe referrals are important, but not a must. I completely disagree, you cannot get better at flying and enjoy without the right tools (at least the minimum set).
 
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+
 <details>
 
 <summary>First Stick</summary>
@@ -48,4 +50,3 @@ Steam
 50% discount on your first buy
 
 ## Fly
-
