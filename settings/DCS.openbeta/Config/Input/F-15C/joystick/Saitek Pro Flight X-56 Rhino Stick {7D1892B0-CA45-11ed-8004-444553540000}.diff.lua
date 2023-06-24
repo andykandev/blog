@@ -22,5 +22,23 @@ local diff = {
 			["name"] = "Roll",
 		},
 	},
+	["keyDiffs"] = {
+		["d106pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+			["name"] = "(2) Beyond Visual Range Mode",
+		},
+		["dnilp32u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+		},
+	},
 }
 return diff
