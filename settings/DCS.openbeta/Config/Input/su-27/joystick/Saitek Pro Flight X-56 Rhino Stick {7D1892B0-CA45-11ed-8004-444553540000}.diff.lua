@@ -52,13 +52,79 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d100pnilu1627cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Target Lock",
+		},
+		["d101pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+			["name"] = "Weapon Change",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+		},
+		["d106pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "(2) Beyond Visual Range Mode",
+		},
+		["d107pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "(3) Close Air Combat Vertical Scan Mode",
+		},
+		["d108pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "(4) Close Air Combat Bore Mode",
+		},
+		["d109pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "(5) Close Air Combat HMD Helmet Mode",
+		},
 		["d113pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
 			["name"] = "Cannon",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN5",
 				},
 			},
+		},
+		["d349pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Launch Permission Override",
 		},
 		["d562pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -67,6 +133,30 @@ local diff = {
 				},
 			},
 			["name"] = "Nose Wheel Steering",
+		},
+		["d957pnilu958cdnilvdnilvpnilvunil"] = {
+			["name"] = "Stick to Trimmer Control Mode",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+		},
+		["dnilp32u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+		},
+		["dnilp33u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
 		},
 		["dnilp93u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {

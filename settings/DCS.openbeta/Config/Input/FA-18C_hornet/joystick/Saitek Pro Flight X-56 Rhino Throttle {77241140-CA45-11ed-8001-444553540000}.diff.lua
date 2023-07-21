@@ -314,6 +314,22 @@ local diff = {
 			},
 			["name"] = "Altitude Switch - BARO",
 		},
+		["d3009pnilunilcd8vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "STROBE Lights Switch - Down",
+		},
+		["d3009pnilunilcd8vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "STROBE Lights Switch - Up",
+		},
 		["d3012pnilunilcd11vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -484,22 +500,6 @@ local diff = {
 				},
 			},
 			["name"] = "RAID/FLIR FOV Select Button",
-		},
-		["d3034pnilunilcd25vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "UFC COMM 2 Channel Selector Knob - CCW/Decrease",
-		},
-		["d3034pnilunilcd25vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "UFC COMM 2 Channel Selector Knob - CW/Increase",
 		},
 		["d3035pnilu3035cd13vd-1vpnilvu0"] = {
 			["added"] = {
