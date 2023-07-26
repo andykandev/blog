@@ -106,10 +106,26 @@ local diff = {
 		["d102pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN24",
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "Next Waypoint, Airfield Or Target",
+		},
+		["d103pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Radar | Display Zoom In",
+		},
+		["d104pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Radar | Display Zoom Out",
 		},
 		["d113pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Cannon",
@@ -122,18 +138,10 @@ local diff = {
 		["d1315pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
+					["key"] = "JOY_BTN7",
 				},
 			},
 			["name"] = "Previous Waypoint, Airfield Or Target",
-		},
-		["d136pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "ECM",
 		},
 		["d145pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -266,6 +274,22 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
+		},
+		["dnilp139u230cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Scan Zone Left",
+		},
+		["dnilp140u230cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Scan Zone Right",
 		},
 		["dnilp141u230cdnilvdnilvpnilvunil"] = {
 			["added"] = {

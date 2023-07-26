@@ -1,6 +1,19 @@
 local diff = {
 	["keyDiffs"] = {
+		["d113pnilunilcdnilvdnilvpnilvunil"] = {
+			["name"] = "Cannon",
+			["removed"] = {
+				[1] = {
+					["key"] = "C",
+				},
+			},
+		},
 		["d136pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "C",
+				},
+			},
 			["name"] = "ECM",
 			["removed"] = {
 				[1] = {
@@ -32,13 +45,29 @@ local diff = {
 				},
 			},
 		},
+		["d203pnilu204cdnilvdnilvpnilvunil"] = {
+			["name"] = "Aircraft Rudder Right",
+			["removed"] = {
+				[1] = {
+					["key"] = "X",
+				},
+			},
+		},
 		["d285pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Z",
+					["key"] = "O",
 				},
 			},
 			["name"] = "Radar RWS/TWS Mode Select",
+			["removed"] = {
+				[1] = {
+					["key"] = "I",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
+				},
+			},
 		},
 		["d389pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Autopilot - Altitude Hold",
@@ -54,10 +83,18 @@ local diff = {
 		["d394pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "O",
+					["key"] = "U",
 				},
 			},
 			["name"] = "Radar Pulse Repeat Frequency Select",
+			["removed"] = {
+				[1] = {
+					["key"] = "I",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
 		},
 		["d408pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

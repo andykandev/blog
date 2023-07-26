@@ -37,9 +37,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "M",
-					["reformers"] = {
-						[1] = "LWin",
-					},
 				},
 			},
 			["name"] = "Toggle Mirrors",
@@ -631,6 +628,14 @@ local diff = {
 				},
 			},
 			["name"] = "Right MDI PB 4",
+		},
+		["d3014pnilunilcd23vd1vpnilvunil"] = {
+			["name"] = "Master Arm Switch - ARM/SAFE",
+			["removed"] = {
+				[1] = {
+					["key"] = "M",
+				},
+			},
 		},
 		["d3014pnilunilcd53vd1vpnilvunil"] = {
 			["added"] = {
