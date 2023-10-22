@@ -69,6 +69,22 @@ local diff = {
 				},
 			},
 		},
+		["d286pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "W",
+				},
+			},
+			["name"] = "RWR/SPO Mode Select",
+			["removed"] = {
+				[1] = {
+					["key"] = "R",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+		},
 		["d389pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Autopilot - Altitude Hold",
 			["removed"] = {
@@ -123,6 +139,14 @@ local diff = {
 					["reformers"] = {
 						[1] = "LAlt",
 					},
+				},
+			},
+		},
+		["d74pnilu75cdnilvdnilvpnilvunil"] = {
+			["name"] = "Wheel Brake On",
+			["removed"] = {
+				[1] = {
+					["key"] = "W",
 				},
 			},
 		},

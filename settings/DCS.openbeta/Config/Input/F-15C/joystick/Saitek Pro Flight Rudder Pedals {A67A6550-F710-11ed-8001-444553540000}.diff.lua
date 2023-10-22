@@ -23,7 +23,7 @@ local diff = {
 						["curvature"] = {
 							[1] = 0.15,
 						},
-						["deadzone"] = 0.01,
+						["deadzone"] = 0.03,
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,
@@ -44,7 +44,7 @@ local diff = {
 						["curvature"] = {
 							[1] = 0,
 						},
-						["deadzone"] = 0,
+						["deadzone"] = 0.01,
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,
@@ -65,7 +65,7 @@ local diff = {
 						["curvature"] = {
 							[1] = 0,
 						},
-						["deadzone"] = 0,
+						["deadzone"] = 0.01,
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,

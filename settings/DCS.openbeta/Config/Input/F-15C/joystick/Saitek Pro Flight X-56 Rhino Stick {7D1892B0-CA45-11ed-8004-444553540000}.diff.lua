@@ -5,9 +5,9 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.2,
+							[1] = 0.15,
 						},
-						["deadzone"] = 0.01,
+						["deadzone"] = 0.03,
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,
@@ -26,9 +26,9 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.2,
+							[1] = 0.15,
 						},
-						["deadzone"] = 0.01,
+						["deadzone"] = 0.03,
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,
@@ -139,6 +139,14 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+		},
+		["dnilp34u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
 		},
