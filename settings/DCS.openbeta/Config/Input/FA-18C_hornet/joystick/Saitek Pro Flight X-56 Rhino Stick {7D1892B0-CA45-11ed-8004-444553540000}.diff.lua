@@ -5,9 +5,12 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.25,
+							[1] = 0.15,
 						},
-						["deadzone"] = 0.04,
+						["deadzone"] = 0.03,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
 						["invert"] = false,
 						["saturationX"] = 1,
 						["saturationY"] = 1,
@@ -23,9 +26,12 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.25,
+							[1] = 0.15,
 						},
-						["deadzone"] = 0,
+						["deadzone"] = 0.03,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
 						["invert"] = false,
 						["saturationX"] = 1,
 						["saturationY"] = 1,
@@ -44,14 +50,6 @@ local diff = {
 				},
 			},
 		},
-		["a2004cdnil"] = {
-			["name"] = "Thrust",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-		},
 	},
 	["keyDiffs"] = {
 		["d3002pnilu3002cd13vd1vpnilvu0"] = {
@@ -65,15 +63,23 @@ local diff = {
 		["d3003pnilu3003cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "Weapon Release Button",
 		},
+		["d3004pnilu3004cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "RECCE Event Mark Switch",
+		},
 		["d3005pnilu3005cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
+					["key"] = "JOY_BTN11",
 				},
 			},
 			["name"] = "Sensor Control Switch - Fwd",
@@ -81,7 +87,7 @@ local diff = {
 		["d3006pnilu3006cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
+					["key"] = "JOY_BTN13",
 				},
 			},
 			["name"] = "Sensor Control Switch - Aft",
@@ -89,7 +95,7 @@ local diff = {
 		["d3007pnilu3007cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
+					["key"] = "JOY_BTN14",
 				},
 			},
 			["name"] = "Sensor Control Switch - Left",
@@ -97,7 +103,7 @@ local diff = {
 		["d3008pnilu3008cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
+					["key"] = "JOY_BTN12",
 				},
 			},
 			["name"] = "Sensor Control Switch - Right",
@@ -105,7 +111,7 @@ local diff = {
 		["d3009pnilu3009cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN11",
+					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
 			["name"] = "Select Sparrow",
@@ -113,7 +119,7 @@ local diff = {
 		["d3010pnilu3010cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN_POV1_R",
 				},
 			},
 			["name"] = "Select Gun",
@@ -121,7 +127,7 @@ local diff = {
 		["d3011pnilu3011cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
 			["name"] = "Select AMRAAM",
@@ -129,7 +135,7 @@ local diff = {
 		["d3012pnilu3012cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
 			["name"] = "Select Sidewinder",
@@ -142,21 +148,21 @@ local diff = {
 			},
 			["name"] = "Undesignate/Nose Wheel Steer Switch",
 		},
-		["d3023pnilu3023cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Throttle Designator Controller - DEPRESS",
-		},
-		["d74pnilu75cdnilvdnilvpnilvunil"] = {
+		["d3018pnilu3018cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Wheel Brake - ON/OFF",
+			["name"] = "Autopilot/Nosewheel Steering Disengage (Paddle) Switch",
+		},
+		["d3045pnilu3045cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Sensor Control Switch - Depress",
 		},
 		["dnilp3014u3014cd13vdnilvp1vu0"] = {
 			["added"] = {
