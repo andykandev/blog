@@ -37,22 +37,12 @@ local diff = {
 			["name"] = "Roll",
 		},
 		["a2003cdnil"] = {
-			["changed"] = {
+			["name"] = "Rudder",
+			["removed"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0.25,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
 					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "Rudder",
 		},
 		["a2004cdnil"] = {
 			["name"] = "Thrust",
@@ -112,6 +102,14 @@ local diff = {
 			},
 			["name"] = "Sensor Control Switch - Right",
 		},
+		["d3009pnilu3009cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Select Sparrow",
+		},
 		["d3010pnilu3010cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -123,7 +121,7 @@ local diff = {
 		["d3011pnilu3011cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN12",
 				},
 			},
 			["name"] = "Select AMRAAM",
@@ -131,10 +129,7 @@ local diff = {
 		["d3012pnilu3012cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-				[2] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN14",
 				},
 			},
 			["name"] = "Select Sidewinder",
@@ -146,6 +141,14 @@ local diff = {
 				},
 			},
 			["name"] = "Undesignate/Nose Wheel Steer Switch",
+		},
+		["d3023pnilu3023cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Throttle Designator Controller - DEPRESS",
 		},
 		["d74pnilu75cdnilvdnilvpnilvunil"] = {
 			["added"] = {
