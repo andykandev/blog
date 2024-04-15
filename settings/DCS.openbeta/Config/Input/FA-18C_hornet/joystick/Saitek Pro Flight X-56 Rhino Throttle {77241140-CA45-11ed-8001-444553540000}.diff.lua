@@ -137,7 +137,7 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.3,
+							[1] = 0.15,
 						},
 						["deadzone"] = 0.01,
 						["hardwareDetent"] = false,
@@ -158,7 +158,7 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.3,
+							[1] = 0.15,
 						},
 						["deadzone"] = 0.01,
 						["hardwareDetent"] = false,
@@ -520,7 +520,7 @@ local diff = {
 		["d3037pnilu3037cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN33",
 				},
 			},
 			["name"] = "ATC Engage/Disengage Switch",
@@ -622,14 +622,6 @@ local diff = {
 				},
 			},
 			["name"] = "Landing Gear Control Handle - DOWN",
-		},
-		["d74pnilu75cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN33",
-				},
-			},
-			["name"] = "Wheel Brake - ON/OFF",
 		},
 	},
 }
