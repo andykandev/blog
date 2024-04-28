@@ -423,14 +423,6 @@ local diff = {
 			},
 			["name"] = "Attitude Selector Switch - Up",
 		},
-		["d3023pnilu3023cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "Throttle Designator Controller - DEPRESS",
-		},
 		["d3024pnilu3024cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -540,6 +532,14 @@ local diff = {
 				},
 			},
 			["name"] = "Exterior Lights Switch - ON",
+		},
+		["d3045pnilu3045cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "Sensor Control Switch - Depress",
 		},
 		["d309pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

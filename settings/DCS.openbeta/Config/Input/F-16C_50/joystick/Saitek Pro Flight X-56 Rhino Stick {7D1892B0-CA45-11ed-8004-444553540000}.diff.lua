@@ -5,9 +5,9 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.15,
+							[1] = 0.1,
 						},
-						["deadzone"] = 0.01,
+						["deadzone"] = 0.03,
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,
@@ -26,12 +26,9 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.15,
+							[1] = 0.1,
 						},
-						["deadzone"] = 0.01,
-						["hardwareDetent"] = false,
-						["hardwareDetentAB"] = 0,
-						["hardwareDetentMax"] = 0,
+						["deadzone"] = 0.03,
 						["invert"] = false,
 						["saturationX"] = 1,
 						["saturationY"] = 1,
@@ -50,151 +47,127 @@ local diff = {
 				},
 			},
 		},
+		["a2004cdnil"] = {
+			["name"] = "Thrust",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+		},
 	},
 	["keyDiffs"] = {
-		["d3002pnilu3002cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Gun Trigger - SECOND DETENT (Press to shoot)",
-		},
-		["d3003pnilu3003cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Weapon Release Button",
-		},
-		["d3004pnilu3004cd13vd1vpnilvu0"] = {
+		["d3001pnilu3001cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "RECCE Event Mark Switch",
+			["name"] = "NWS A/R DISC MSL STEP Button",
 		},
-		["d3005pnilu3005cd13vd1vpnilvu0"] = {
+		["d3006pnilu3006cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Sensor Control Switch - Fwd",
+			["name"] = "Display Management Switch - Up",
 		},
-		["d3006pnilu3006cd13vd1vpnilvu0"] = {
+		["d3007pnilu3007cd16vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Sensor Control Switch - Aft",
+			["name"] = "Display Management Switch - Down",
 		},
-		["d3007pnilu3007cd13vd1vpnilvu0"] = {
+		["d3008pnilu3008cd16vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN14",
 				},
 			},
-			["name"] = "Sensor Control Switch - Left",
+			["name"] = "Display Management Switch - Left",
 		},
-		["d3008pnilu3008cd13vd1vpnilvu0"] = {
+		["d3009pnilu3009cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Sensor Control Switch - Right",
+			["name"] = "Display Management Switch - Right",
 		},
-		["d3009pnilu3009cd13vd1vpnilvu0"] = {
+		["d3010pnilu3010cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
-			["name"] = "Select Sparrow",
+			["name"] = "Target Management Switch - Up",
 		},
-		["d3010pnilu3010cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
-				},
-			},
-			["name"] = "Select Gun",
-		},
-		["d3011pnilu3011cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
-				},
-			},
-			["name"] = "Select AMRAAM",
-		},
-		["d3012pnilu3012cd13vd1vpnilvu0"] = {
+		["d3011pnilu3011cd16vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-			["name"] = "Select Sidewinder",
+			["name"] = "Target Management Switch - Down",
 		},
-		["d3013pnilu3013cd13vd1vpnilvu0"] = {
+		["d3012pnilu3012cd16vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
-			["name"] = "Undesignate/Nose Wheel Steer Switch",
+			["name"] = "Target Management Switch - Left",
 		},
-		["d3018pnilu3018cd13vd1vpnilvu0"] = {
+		["d3013pnilu3013cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN_POV1_R",
 				},
 			},
-			["name"] = "Autopilot/Nosewheel Steering Disengage (Paddle) Switch",
+			["name"] = "Target Management Switch - Right",
 		},
-		["d3023pnilu3023cd13vd1vpnilvu0"] = {
+		["d3014pnilu3014cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Throttle Designator Controller - DEPRESS",
+			["name"] = "Countermeasures Management Switch - Fwd",
 		},
-		["dnilp3014u3014cd13vdnilvp1vu0"] = {
+		["d3018pnilu3018cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN5",
 				},
 			},
-			["name"] = "Trimmer Switch - PULL(CLIMB)",
+			["name"] = "Expand/FOV Button - Depress",
 		},
-		["dnilp3015u3015cd13vdnilvp1vu0"] = {
+		["d3019pnilu3019cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Trimmer Switch - PUSH(DESCEND)",
+			["name"] = "Paddle Switch - Depress",
 		},
-		["dnilp3016u3016cd13vdnilvp1vu0"] = {
+		["d3021pnilu3021cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Trimmer Switch - LEFT WING DOWN",
+			["name"] = "CAMERA/GUN Trigger - SECOND DETENT",
 		},
-		["dnilp3017u3017cd13vdnilvp1vu0"] = {
+		["d3022pnilu3022cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN8",
+					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Trimmer Switch - RIGHT WING DOWN",
+			["name"] = "WPN REL Button - Depress",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
@@ -227,6 +200,38 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
+		},
+		["dnilp93u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "TRIM Button - LEFT WING DOWN",
+		},
+		["dnilp94u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "TRIM Button - RIGHT WING DOWN",
+		},
+		["dnilp95u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "TRIM Button - NOSE DOWN",
+		},
+		["dnilp96u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "TRIM Button - NOSE UP",
 		},
 	},
 }
