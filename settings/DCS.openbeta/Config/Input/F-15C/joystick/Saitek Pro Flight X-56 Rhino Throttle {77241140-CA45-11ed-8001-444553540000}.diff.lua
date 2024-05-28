@@ -51,6 +51,19 @@ local diff = {
 		["a2012cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0.01,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_Z",
 				},
 			},
@@ -59,6 +72,19 @@ local diff = {
 		["a2033cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.15,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RX",
 				},
 			},
@@ -69,7 +95,7 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0,
+							[1] = 0.15,
 						},
 						["deadzone"] = 0,
 						["hardwareDetent"] = false,
@@ -175,6 +201,14 @@ local diff = {
 			},
 			["name"] = "Airbrake Off",
 		},
+		["d285pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "Radar RWS/TWS Mode Select",
+		},
 		["d311pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -259,14 +293,6 @@ local diff = {
 			},
 			["name"] = "Landing Gear Down",
 		},
-		["d74pnilu75cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN33",
-				},
-			},
-			["name"] = "Wheel Brake On",
-		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Fire",
 			["removed"] = {
@@ -306,6 +332,22 @@ local diff = {
 				},
 			},
 			["name"] = "Scan Zone Down",
+		},
+		["dnilp746unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "HUD Brightness up",
+		},
+		["dnilp747unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "HUD Brightness down",
 		},
 	},
 }

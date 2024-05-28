@@ -1,5 +1,13 @@
 local diff = {
 	["keyDiffs"] = {
+		["d105pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "N",
+				},
+			},
+			["name"] = "(1) Navigation Modes",
+		},
 		["d113pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Cannon",
 			["removed"] = {

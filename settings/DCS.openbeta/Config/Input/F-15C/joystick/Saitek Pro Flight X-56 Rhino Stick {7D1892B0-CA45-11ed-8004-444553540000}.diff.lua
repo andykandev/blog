@@ -7,7 +7,7 @@ local diff = {
 						["curvature"] = {
 							[1] = 0.15,
 						},
-						["deadzone"] = 0.03,
+						["deadzone"] = 0.02,
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,
@@ -28,7 +28,7 @@ local diff = {
 						["curvature"] = {
 							[1] = 0.15,
 						},
-						["deadzone"] = 0.03,
+						["deadzone"] = 0.02,
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,
@@ -52,12 +52,20 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d101pnilunilcdnilvdnilvpnilvunil"] = {
+		["d100pnilu1627cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
+					["key"] = "JOY_BTN4",
 				},
 			},
+			["name"] = "Target Lock",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+		},
+		["d101pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Change",
 			["removed"] = {
 				[1] = {
@@ -65,26 +73,18 @@ local diff = {
 				},
 			},
 		},
-		["d105pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "(1) Navigation Modes",
-		},
 		["d106pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
-			["name"] = "(2) Beyond Visual Range Mode",
+			["name"] = "(2) Air-to-Air Beyond Visual Range Modes",
 		},
 		["d107pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN_POV1_R",
 				},
 			},
 			["name"] = "(3) Close Air Combat Vertical Scan Mode",
@@ -92,25 +92,12 @@ local diff = {
 		["d108pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN11",
+					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
 			["name"] = "(4) Close Air Combat Bore Mode",
 		},
-		["d110pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
-				},
-			},
-			["name"] = "(6) Longitudinal Missile Aiming Mode/FLOOD mode",
-		},
 		["d113pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
-				},
-			},
 			["name"] = "Cannon",
 			["removed"] = {
 				[1] = {
