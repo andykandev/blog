@@ -1,5 +1,5 @@
 nicknames = 
 {
-    [1] = "[TAW] GoldenCrown",
-    [2] = "GoldenCrown",
+    [1] = "GoldenCrown",
+    [2] = "[TAW] GoldenCrown",
 } -- end of nicknames
