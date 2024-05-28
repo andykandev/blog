@@ -118,7 +118,7 @@ local diff = {
 						["curvature"] = {
 							[1] = 0,
 						},
-						["deadzone"] = 0.01,
+						["deadzone"] = 0.02,
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,
@@ -314,6 +314,22 @@ local diff = {
 			},
 			["name"] = "Altitude Switch - BARO",
 		},
+		["d3009pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Spin Recovery Switch - NORM",
+		},
+		["d3009pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Spin Recovery Switch - RCVY",
+		},
 		["d3009pnilunilcd8vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -407,22 +423,6 @@ local diff = {
 			},
 			["name"] = "FLAP Switch - Up",
 		},
-		["d3022pnilunilcd34vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Attitude Selector Switch - Down",
-		},
-		["d3022pnilunilcd34vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Attitude Selector Switch - Up",
-		},
 		["d3024pnilu3024cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -484,14 +484,6 @@ local diff = {
 				},
 			},
 			["name"] = "Dispense Switch - Aft(FLARE)/Center(OFF)",
-		},
-		["d3034pnilu3034cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "RAID/FLIR FOV Select Button",
 		},
 		["d3035pnilu3035cd13vd-1vpnilvu0"] = {
 			["added"] = {

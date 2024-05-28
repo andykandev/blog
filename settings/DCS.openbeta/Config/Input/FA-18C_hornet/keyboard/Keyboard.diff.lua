@@ -932,11 +932,6 @@ local diff = {
 			["name"] = "Right MDI PB 13",
 		},
 		["d3024pnilu3024cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "-",
-				},
-			},
 			["name"] = "Radar Elevation Control - Up",
 			["removed"] = {
 				[1] = {
@@ -977,11 +972,6 @@ local diff = {
 			["name"] = "Right MDI PB 14",
 		},
 		["d3025pnilu3025cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "=",
-				},
-			},
 			["name"] = "Radar Elevation Control - Down",
 			["removed"] = {
 				[1] = {
@@ -1639,6 +1629,40 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "Num/",
+				},
+			},
+		},
+		["dnilp840unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "=",
+				},
+			},
+			["name"] = "Gain goggles up",
+			["removed"] = {
+				[1] = {
+					["key"] = "H",
+					["reformers"] = {
+						[1] = "RShift",
+						[2] = "RCtrl",
+					},
+				},
+			},
+		},
+		["dnilp841unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "-",
+				},
+			},
+			["name"] = "Gain goggles down",
+			["removed"] = {
+				[1] = {
+					["key"] = "H",
+					["reformers"] = {
+						[1] = "RShift",
+						[2] = "RAlt",
+					},
 				},
 			},
 		},

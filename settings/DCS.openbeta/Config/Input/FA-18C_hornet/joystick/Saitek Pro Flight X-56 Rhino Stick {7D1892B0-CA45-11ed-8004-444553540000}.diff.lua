@@ -5,7 +5,7 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.15,
+							[1] = 0.2,
 						},
 						["deadzone"] = 0.01,
 						["hardwareDetent"] = false,
@@ -26,7 +26,7 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.15,
+							[1] = 0.2,
 						},
 						["deadzone"] = 0.01,
 						["hardwareDetent"] = false,
@@ -68,14 +68,6 @@ local diff = {
 			},
 			["name"] = "Weapon Release Button",
 		},
-		["d3004pnilu3004cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "RECCE Event Mark Switch",
-		},
 		["d3005pnilu3005cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -111,7 +103,7 @@ local diff = {
 		["d3009pnilu3009cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
+					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
 			["name"] = "Select Sparrow",
@@ -119,7 +111,7 @@ local diff = {
 		["d3010pnilu3010cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
+					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
 			["name"] = "Select Gun",
@@ -127,7 +119,7 @@ local diff = {
 		["d3011pnilu3011cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
+					["key"] = "JOY_BTN_POV1_R",
 				},
 			},
 			["name"] = "Select AMRAAM",
@@ -163,6 +155,14 @@ local diff = {
 				},
 			},
 			["name"] = "Throttle Designator Controller - DEPRESS",
+		},
+		["d3034pnilu3034cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "RAID/FLIR FOV Select Button",
 		},
 		["dnilp3014u3014cd13vdnilvp1vu0"] = {
 			["added"] = {
