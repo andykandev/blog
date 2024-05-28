@@ -48,6 +48,19 @@ local diff = {
 		["a3003cd30"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RZ",
 				},
 			},
@@ -131,13 +144,21 @@ local diff = {
 			},
 			["name"] = "ALT FLAPS Switch - EXTEND",
 		},
-		["d3004pnilu3004cd6vd1vpnilvu0"] = {
+		["d3015pnilunilcd11vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN15",
 				},
 			},
-			["name"] = "Engine ANTI ICE 3-pos Switch: ON<>AUTO",
+			["name"] = "MASTER Switch - CCW",
+		},
+		["d3015pnilunilcd11vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "MASTER Switch - CW",
 		},
 		["d3016pnilunilcd19vd-1vpnilvunil"] = {
 			["added"] = {
@@ -155,6 +176,38 @@ local diff = {
 			},
 			["name"] = "MASTER ARM Switch - Up",
 		},
+		["d3016pnilunilcd35vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "IFF MASTER Knob - CCW",
+		},
+		["d3016pnilunilcd35vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "IFF MASTER Knob - CW",
+		},
+		["d3021pnilunilcd32vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "MODE Knob - CCW",
+		},
+		["d3021pnilunilcd32vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "MODE Knob - CW",
+		},
 		["d3024pnilu3024cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -171,21 +224,29 @@ local diff = {
 			},
 			["name"] = "Transmit Switch - UHF (call radio menu)",
 		},
-		["d3028pnilu3028cd17vd1vpnilvu0"] = {
+		["d3029pnilu3029cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "ICP DRIFT CUTOUT/WARN RESET 3-pos Switch: DRIFT C/O<>NORM",
+			["name"] = "UNCAGE Switch",
 		},
-		["d3029pnilu3029cd16vd1vpnilvu0"] = {
+		["d3030pnilunilcd16vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "DOGFIGHT/Missile Override Switch - MISSILE OVERRIDE",
+		},
+		["d3030pnilunilcd16vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "UNCAGE Switch",
+			["name"] = "DOGFIGHT/Missile Override Switch - DOGFIGHT",
 		},
 		["d3031pnilu3031cd16vd-1vpnilvu0"] = {
 			["added"] = {
@@ -203,14 +264,6 @@ local diff = {
 			},
 			["name"] = "SPD BRK Switch - Fwd/RETRACT",
 		},
-		["d3039pnilu3039cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "ENABLE Switch - Depress",
-		},
 		["d311pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -221,14 +274,6 @@ local diff = {
 				},
 			},
 			["name"] = "Throttle - IDLE",
-		},
-		["d313pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Throttle - OFF",
 		},
 		["d430pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

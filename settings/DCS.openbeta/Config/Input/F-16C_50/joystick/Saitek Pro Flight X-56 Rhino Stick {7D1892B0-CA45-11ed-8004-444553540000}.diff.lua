@@ -129,14 +129,6 @@ local diff = {
 			},
 			["name"] = "Target Management Switch - Right",
 		},
-		["d3014pnilu3014cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Countermeasures Management Switch - Fwd",
-		},
 		["d3018pnilu3018cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -168,6 +160,14 @@ local diff = {
 				},
 			},
 			["name"] = "WPN REL Button - Depress",
+		},
+		["d3039pnilu3039cd16vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "ENABLE Switch - Depress",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
