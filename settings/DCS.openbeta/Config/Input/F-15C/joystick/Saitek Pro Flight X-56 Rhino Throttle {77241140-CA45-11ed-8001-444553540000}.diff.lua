@@ -188,7 +188,7 @@ local diff = {
 		["d147pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
+					["key"] = "JOY_BTN27",
 				},
 			},
 			["name"] = "Airbrake On",
@@ -196,7 +196,7 @@ local diff = {
 		["d148pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN27",
+					["key"] = "JOY_BTN25",
 				},
 			},
 			["name"] = "Airbrake Off",

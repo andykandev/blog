@@ -251,7 +251,7 @@ local diff = {
 		["d3031pnilu3031cd16vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
+					["key"] = "JOY_BTN27",
 				},
 			},
 			["name"] = "SPD BRK Switch - Aft/EXTEND (Momentary)",
@@ -259,7 +259,7 @@ local diff = {
 		["d3031pnilunilcd16vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN27",
+					["key"] = "JOY_BTN25",
 				},
 			},
 			["name"] = "SPD BRK Switch - Fwd/RETRACT",
