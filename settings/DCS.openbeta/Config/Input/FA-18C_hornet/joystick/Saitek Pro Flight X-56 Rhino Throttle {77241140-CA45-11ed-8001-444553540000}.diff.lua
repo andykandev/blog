@@ -200,6 +200,28 @@ local diff = {
 			},
 			["name"] = "Dispense Button",
 		},
+		["d3002pnilunilcd66vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "ALQ-165 ECM Mode Switch - CCW",
+		},
+		["d3002pnilunilcd66vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "ALQ-165 ECM Mode Switch - CW",
+		},
 		["d3003pnilunilcd23vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -215,28 +237,6 @@ local diff = {
 				},
 			},
 			["name"] = "Master Arm Switch - ARM",
-		},
-		["d3003pnilunilcd34vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "HUD Symbology Brightness Selector Knob - NIGHT",
-		},
-		["d3003pnilunilcd34vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "HUD Symbology Brightness Selector Knob - DAY",
 		},
 		["d3004pnilunilcd54vd-1vpnilvunil"] = {
 			["added"] = {
@@ -334,6 +334,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN15",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
 				},
 			},
 			["name"] = "STROBE Lights Switch - Down",
@@ -342,6 +345,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN14",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
 				},
 			},
 			["name"] = "STROBE Lights Switch - Up",
@@ -488,7 +494,7 @@ local diff = {
 		["d3035pnilu3035cd13vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
+					["key"] = "JOY_BTN27",
 				},
 			},
 			["name"] = "Speed Brake Switch - EXTEND",
@@ -496,7 +502,7 @@ local diff = {
 		["d3035pnilunilcd13vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN27",
+					["key"] = "JOY_BTN25",
 				},
 			},
 			["name"] = "Speed Brake Switch - RETRACT",
@@ -512,7 +518,7 @@ local diff = {
 		["d3041pnilunilcd13vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
+					["key"] = "JOY_BTN15",
 				},
 			},
 			["name"] = "Exterior Lights Switch - OFF",
@@ -520,7 +526,7 @@ local diff = {
 		["d3041pnilunilcd13vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN24",
+					["key"] = "JOY_BTN14",
 				},
 			},
 			["name"] = "Exterior Lights Switch - ON",

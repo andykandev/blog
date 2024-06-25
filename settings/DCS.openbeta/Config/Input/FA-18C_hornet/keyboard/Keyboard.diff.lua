@@ -238,6 +238,14 @@ local diff = {
 			},
 			["name"] = "AMPCD Night/Day Brightness Selector - NGT",
 		},
+		["d3003pnilunilcd57vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Q",
+				},
+			},
+			["name"] = "Toggle helmet visor",
+		},
 		["d3004pnilu3004cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -1171,6 +1179,14 @@ local diff = {
 				},
 			},
 		},
+		["d3042pnilunilcd13vd1vpnilvunil"] = {
+			["name"] = "Exterior Lights Switch - ON/OFF",
+			["removed"] = {
+				[1] = {
+					["key"] = "L",
+				},
+			},
+		},
 		["d314pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Throttle (Right) - OFF",
 			["removed"] = {
@@ -1178,6 +1194,22 @@ local diff = {
 					["key"] = "End",
 					["reformers"] = {
 						[1] = "RShift",
+					},
+				},
+			},
+		},
+		["d3256pnilunilcd0vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "L",
+				},
+			},
+			["name"] = "Flashlight",
+			["removed"] = {
+				[1] = {
+					["key"] = "L",
+					["reformers"] = {
+						[1] = "LAlt",
 					},
 				},
 			},
